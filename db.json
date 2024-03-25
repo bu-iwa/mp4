@@ -3,21 +3,21 @@
     {
       "id": 1,
       "listId": 1,
-      "title": "Washing pods",
+      "title": "BOSTON UNIVERSITY",
       "quantity": 1,
       "price": 6.99
     },
     {
       "id": 2,
       "listId": 1,
-      "title": "Rice",
+      "title": "STUDYING COMPUTER SCIENCE",
       "quantity": 1,
       "price": 0.99
     },
     {
       "id": 3,
       "listId": 2,
-      "title": "Birthday Cake",
+      "title": "CS 391 DATA HERE",
       "quantity": 1,
       "price": 8.99
     }
@@ -25,11 +25,11 @@
   "lists": [
     {
       "id": 1,
-      "title": "Daily groceries"
+      "title": "DUMMY DATA FOR CS391"
     },
     {
       "id": 2,
-      "title": "Birthday youngest child"
+      "title": "MORE DUMMY DATA FOR CS391"
     }
   ]
 }
