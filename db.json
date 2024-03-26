@@ -5,30 +5,21 @@
       "listId": 1,
       "title": "Washing pods",
       "quantity": 1,
-      "price": 6.99,
-      "fees": 0,
-      "size": "small",
-      "location": "usa"
+      "price": 6.99
     },
     {
       "id": 2,
       "listId": 1,
       "title": "Rice",
       "quantity": 1,
-      "price": 0.99,
-      "fees": 0,
-      "size": "small",
-      "location": "usa"
+      "price": 0.99
     },
     {
       "id": 3,
       "listId": 2,
       "title": "Birthday Cake",
       "quantity": 1,
-      "price": 8.99,
-      "fees": 0,
-      "size": "small",
-      "location": "usa"
+      "price": 8.99
     }
   ],
   "lists": [
