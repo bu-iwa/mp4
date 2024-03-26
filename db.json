@@ -5,21 +5,30 @@
       "listId": 1,
       "title": "Washing pods",
       "quantity": 1,
-      "price": 6.99
+      "price": 6.99,
+      "fees": 0,
+      "size": "small",
+      "location": "usa"
     },
     {
       "id": 2,
       "listId": 1,
       "title": "Rice",
       "quantity": 1,
-      "price": 0.99
+      "price": 0.99,
+      "fees": 0,
+      "size": "small",
+      "location": "usa"
     },
     {
       "id": 3,
       "listId": 2,
       "title": "Birthday Cake",
       "quantity": 1,
-      "price": 8.99
+      "price": 8.99,
+      "fees": 0,
+      "size": "small",
+      "location": "usa"
     }
   ],
   "lists": [
@@ -29,6 +38,18 @@
     },
     {
       "id": 2,
+      "title": "Birthday youngest child"
+    },
+    {
+      "id": 3,
+      "title": "Birthday youngest child"
+    },
+    {
+      "id": 4,
+      "title": "Birthday youngest child"
+    },
+    {
+      "id": 5,
       "title": "Birthday youngest child"
     }
   ]
