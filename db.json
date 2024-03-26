@@ -5,31 +5,50 @@
       "listId": 1,
       "title": "Washing pods",
       "quantity": 1,
-      "price": 6.99
+      "price": 6.99,
+      "fees": 0,
+      "size": "small",
+      "loc": "usa"
     },
     {
       "id": 2,
       "listId": 1,
       "title": "Rice",
       "quantity": 1,
-      "price": 0.99
+      "price": 0.99,
+      "fees": 0,
+      "size": "small",
+      "loc": "usa"
     },
     {
       "id": 3,
       "listId": 2,
       "title": "Birthday Cake",
       "quantity": 1,
-      "price": 8.99
+      "price": 8.99,
+      "fees": 0,
+      "size": "small",
+      "loc": "usa"
     }
   ],
   "lists": [
     {
       "id": 1,
-      "title": "Daily groceries"
+      "title": "CS391 DUMMY TEXT"
     },
     {
       "id": 2,
-      "title": "Birthday youngest child"
+      "title": "CS391 DUMMY TEXT"
+    },
+    {
+      "id": 3,
+      "title": "CS391 DUMMY TEXT"
+    },{
+      "id": 4,
+      "title": "MINI PROJECT 4 DUMMY TEXT"
+    },{
+      "id": 5,
+      "title": "CODING IS VERY HARD :("
     }
   ],
   "tasks": [
