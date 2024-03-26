@@ -8,7 +8,9 @@
       "price": 6.99,
       "fees": 0,
       "size": "small",
-      "loc": "usa"
+      "loc": "usa",
+      "color": "red",
+      "shape": "circle"
     },
     {
       "id": 2,
@@ -18,7 +20,9 @@
       "price": 0.99,
       "fees": 0,
       "size": "small",
-      "loc": "usa"
+      "loc": "usa",
+      "color": "green",
+      "shape": "triangle"
     },
     {
       "id": 3,
@@ -28,7 +32,9 @@
       "price": 8.99,
       "fees": 0,
       "size": "small",
-      "loc": "usa"
+      "loc": "usa",
+      "color": "yellow",
+      "shape": "square"
     }
   ],
   "lists": [
